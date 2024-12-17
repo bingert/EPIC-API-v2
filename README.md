@@ -5,7 +5,7 @@ This is [EPIC's](http://www.pidconsortium.eu/) new Web Service
 for PID management.
 
 The latest version of this documentation is always available
-[here, as GitHub pages](http://catchplus.github.com/EPIC-API-v2/).
+[here, as GitHub pages](http://catchplus.github.io/EPIC-API-v2/).
 
 Download
 --------
